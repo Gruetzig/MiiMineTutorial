@@ -10,7 +10,7 @@ py -3 seedminer_launcher3.py id0 %id%
 
 set /p model=Is This and Old or New Model(say new or old):
 
-set /p year=Do you know when the (N)3DS/2DS(XL/LL) was build(leave blank if no)?
+set /p year=Do you know when the (N)3DS/2DS(XL/LL) was built(2011-2020)(leave blank if no/not sure)?
 
 py -3 seedminer_launcher3.py mii %model% %year%
 
