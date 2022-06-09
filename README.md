@@ -1,4 +1,5 @@
 This is a collection of my knowledge when it comes to 3ds mii mining, and i made a small guide + script for it
+will only work on windows i focused on windows
 
 # Neat Guide
 
