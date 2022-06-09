@@ -1,6 +1,6 @@
-# mii-mining-guide
+This is a collection of my knowledge when it comes to 3ds mii mining, and i made a small guide + script for it
 
-# INSTALL GUIDE
+# Neat Guide
 
 What you need:
 
