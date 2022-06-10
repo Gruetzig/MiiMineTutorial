@@ -5,3 +5,5 @@ For Usage Instructions/the tutorial go to the Wiki section
 
 Mii Mining will generate a movable.sed used to encrypt saves used to launch an exploit
 do not inject into nand or it won't boot
+
+BTW THE TUTORIAL WORKS for 5 year olds with english native
