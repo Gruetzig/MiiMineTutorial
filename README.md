@@ -7,3 +7,5 @@ Mii Mining will generate a movable.sed used to encrypt saves used to launch an e
 do not inject into nand or it won't boot
 
 BTW THE TUTORIAL WORKS for 5 year olds with english native
+
+credit goes to everyone helping with creating seedminer, and crc for telling me the qr code site
