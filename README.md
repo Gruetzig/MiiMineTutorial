@@ -8,4 +8,4 @@ do not inject into nand or it won't boot
 
 BTW THE TUTORIAL WORKS for 5 year olds with english native
 
-credit goes to everyone helping with creating seedminer, and crc for telling me the qr code site
+credit goes to the people creating seedminer, and crc for telling me the qr code site
